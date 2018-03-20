@@ -18,9 +18,9 @@ Modified to increase playability and challenges with the following changes:
 - Dungeon now summon Demon or Huge demon on every player visits.
 - Forest now gives a tier 2 weapon, then summons Bandit or gives you a chance to acquire tier-3 "Lost Sword" weapon directly.
 - River now heals for full HP.
+- Bandit can drop a tier-3 weapon.
 - Demon can drop tier-4 legendary Soul Eater weapon (chance-based).
 - Huge demon can drop Demon's heart (key item for good ending).
-- Bandit can drop a tier-3 weapon.
 - Max HP and current HP is now defined randomly everytime the game starts.
 - Recalculated DMG & HP formula (also Soul Eater can consumes the player's HP).
 - Customized battle initiation (each enemy have their own rate to enable 'Run' command).
