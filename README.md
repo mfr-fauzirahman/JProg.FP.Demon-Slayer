@@ -1,6 +1,9 @@
 # JProg.FP.Demon-Slayer
+
 A text-based RPG game based on JAVA.
+
 Agung Cahya Gumilar, Muhammad Fauzi Rahman, Siti Bati'ah Balqis.
+
 Computer Science Dept., Universitas Pendidikan Indonesia.
 
 Based from RyiSnow's text-based JAVA game which can be accessed here:
